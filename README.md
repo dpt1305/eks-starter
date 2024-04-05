@@ -3,13 +3,13 @@
 2/ ...
 
 - Step:
-- - 1. terraform
+  - 1. terraform
     2. provider
     3. network
     4. iam
     5. cluster
 
 - Important commands:
-- - 1. terraform plan
+  - 1. terraform plan
     2. terraform apply
     3. terraform destroy
