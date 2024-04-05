@@ -1,6 +1,6 @@
 - Prerequisites:
-1/ Install terraform cli: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
-2/ ...
+  1. Install terraform cli: https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
+  2. ...
 
 - Step:
     1. terraform
